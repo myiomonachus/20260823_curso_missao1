@@ -9,7 +9,11 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[],
+  "Folders":[
+    {"$GMFolder":"","%Name":"Backgrounds","folderPath":"folders/Backgrounds.yy","name":"Backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Player","folderPath":"folders/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,12 +23,15 @@
   },
   "name":"20260823_curso_missao1",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
+    {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
+    {"id":{"name":"sprBGProto","path":"sprites/sprBGProto/sprBGProto.yy",},},
+    {"id":{"name":"sprPlayerProto","path":"sprites/sprPlayerProto/sprPlayerProto.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
