@@ -26,7 +26,7 @@
   },
   "name":"20260823_curso_missao1",
   "resources":[
-    {"id":{"name":"objCleanup","path":"objects/objCleanup/objCleanup.yy",},},
+    {"id":{"name":"objControl","path":"objects/objControl/objControl.yy",},},
     {"id":{"name":"objGameOver","path":"objects/objGameOver/objGameOver.yy",},},
     {"id":{"name":"objHazard","path":"objects/objHazard/objHazard.yy",},},
     {"id":{"name":"objPickup","path":"objects/objPickup/objPickup.yy",},},
