@@ -4,8 +4,16 @@ switch(state)
 {
 	case "normal":
 	{
-		if (left) x = positionLeft;
-		if (right) x = positionRight;
+		if (left)
+		{
+			x = positionLeft;
+			image_xscale = -1;
+		}
+		if (right)
+		{
+			x = positionRight;
+			image_xscale = 1;
+		}
 		
 		if place_meeting(x, y, objHazard)
 		{
@@ -17,6 +25,6 @@ switch(state)
 	}
 	case "dead":
 	{
-		image_blend = c_red;
+		sprite_index = sprPlayerDead;
 	}
 }

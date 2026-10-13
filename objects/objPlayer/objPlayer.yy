@@ -31,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPlayerProto",
-    "path":"sprites/sprPlayerProto/sprPlayerProto.yy",
+    "name":"sprPlayerRun",
+    "path":"sprites/sprPlayerRun/sprPlayerRun.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"sprPlayerRun",
+    "path":"sprites/sprPlayerRun/sprPlayerRun.yy",
+  },
   "visible":true,
 }
