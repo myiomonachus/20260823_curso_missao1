@@ -35,6 +35,7 @@
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"scrInit","path":"scripts/scrInit/scrInit.yy",},},
+    {"id":{"name":"sprBG","path":"sprites/sprBG/sprBG.yy",},},
     {"id":{"name":"sprBGProto","path":"sprites/sprBGProto/sprBGProto.yy",},},
     {"id":{"name":"sprCoin","path":"sprites/sprCoin/sprCoin.yy",},},
     {"id":{"name":"sprFont","path":"sprites/sprFont/sprFont.yy",},},
