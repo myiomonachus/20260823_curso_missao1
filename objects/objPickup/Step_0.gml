@@ -1,4 +1,8 @@
-if instance_exists(objGameOver) exit;
+if instance_exists(objGameOver)
+{
+	image_speed = 0;
+	exit;
+}
 
 var _buffer = 24;
 

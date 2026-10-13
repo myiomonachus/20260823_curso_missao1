@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPickup",
-    "path":"sprites/sprPickup/sprPickup.yy",
+    "name":"sprCoin",
+    "path":"sprites/sprCoin/sprCoin.yy",
   },
   "spriteMaskId":null,
   "visible":true,
