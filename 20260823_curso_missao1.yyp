@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Audio","folderPath":"folders/Audio.yy","name":"Audio","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Backgrounds","folderPath":"folders/Backgrounds.yy","name":"Backgrounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Misc","folderPath":"folders/Misc.yy","name":"Misc","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,6 +36,8 @@
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"scrInit","path":"scripts/scrInit/scrInit.yy",},},
+    {"id":{"name":"sfxCoin","path":"sounds/sfxCoin/sfxCoin.yy",},},
+    {"id":{"name":"sfxDead","path":"sounds/sfxDead/sfxDead.yy",},},
     {"id":{"name":"sprBG","path":"sprites/sprBG/sprBG.yy",},},
     {"id":{"name":"sprBGProto","path":"sprites/sprBGProto/sprBGProto.yy",},},
     {"id":{"name":"sprCoin","path":"sprites/sprCoin/sprCoin.yy",},},

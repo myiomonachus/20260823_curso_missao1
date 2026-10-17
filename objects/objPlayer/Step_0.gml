@@ -18,6 +18,8 @@ switch(state)
 		if place_meeting(x, y, objHazard)
 		{
 			if !instance_exists(objGameOver) instance_create_depth(x, y, depth, objGameOver);
+			audio_stop_all();
+			audio_play_sound(sfxDead, 10, false);
 			state = "dead";
 		}
 		
