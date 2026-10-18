@@ -38,6 +38,7 @@
     {"id":{"name":"scrInit","path":"scripts/scrInit/scrInit.yy",},},
     {"id":{"name":"sfxCoin","path":"sounds/sfxCoin/sfxCoin.yy",},},
     {"id":{"name":"sfxDead","path":"sounds/sfxDead/sfxDead.yy",},},
+    {"id":{"name":"sfxSwap","path":"sounds/sfxSwap/sfxSwap.yy",},},
     {"id":{"name":"sprBG","path":"sprites/sprBG/sprBG.yy",},},
     {"id":{"name":"sprBGProto","path":"sprites/sprBGProto/sprBGProto.yy",},},
     {"id":{"name":"sprCoin","path":"sprites/sprCoin/sprCoin.yy",},},

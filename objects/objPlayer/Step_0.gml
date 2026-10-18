@@ -8,11 +8,13 @@ switch(state)
 		{
 			x = positionLeft;
 			image_xscale = -1;
+			audio_play_sound(sfxSwap, 8, false);
 		}
-		if (right)
+		else if (right)
 		{
 			x = positionRight;
 			image_xscale = 1;
+			audio_play_sound(sfxSwap, 8, false);
 		}
 		
 		if place_meeting(x, y, objHazard)
