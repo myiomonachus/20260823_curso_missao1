@@ -36,6 +36,7 @@
     {"id":{"name":"rmGame","path":"rooms/rmGame/rmGame.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"scrInit","path":"scripts/scrInit/scrInit.yy",},},
+    {"id":{"name":"bgmGameplay","path":"sounds/bgmGameplay/bgmGameplay.yy",},},
     {"id":{"name":"sfxCoin","path":"sounds/sfxCoin/sfxCoin.yy",},},
     {"id":{"name":"sfxDead","path":"sounds/sfxDead/sfxDead.yy",},},
     {"id":{"name":"sfxSwap","path":"sounds/sfxSwap/sfxSwap.yy",},},
