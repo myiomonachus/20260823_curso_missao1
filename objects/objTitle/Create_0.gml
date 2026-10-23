@@ -1,0 +1,1 @@
+imgFinal = image_number - 1;

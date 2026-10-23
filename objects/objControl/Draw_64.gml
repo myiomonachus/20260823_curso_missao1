@@ -1,3 +1,5 @@
+if (room !=rmGame) exit;
+
 draw_set_colour(c_white);
 draw_set_font(global.font);
 draw_set_halign(fa_left);

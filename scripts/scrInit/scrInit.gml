@@ -1,3 +1,5 @@
+randomise();
+
 global.playerScore = 0;
 global.highScore = 0;
 
